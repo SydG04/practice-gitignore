@@ -1,0 +1,11 @@
+#ignore private files (php)
+#within folder
+/private/private_file_2.php 
+private_file.php
+noindex.html
+
+#ignore all css and js files
+*.css
+*.js
+
+#
