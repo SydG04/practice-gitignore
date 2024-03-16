@@ -6,6 +6,8 @@ noindex.html
 
 #ignore all css and js files
 *.css
-*.js
+script.js
+script2.js
 
-#
+#env files
+*.env
